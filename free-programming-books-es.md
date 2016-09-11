@@ -37,7 +37,7 @@
 * [Python](#python)
   * [Django](#django)
   * [Web2py](#web2py)
-* [R](#R)
+* [R](#r)
 * [Ruby](#ruby)
   * [Ruby on Rails](#ruby-on-rails)
 * [Scala](#scala)
@@ -120,6 +120,7 @@
 
 * [Curso Android: Todo lo que necesitas para empezar](http://www.maestrosdelweb.com/curso-android/) - Adrian Catalán (HTML)
 * [Curso de Programación Android](http://www.sgoliver.net/blog/wp-content/uploads/2011/11/Manual-Programacion-Android-SgoliverNet-v3-muestra.zip) - Salvador Gómez Oliver (PDF)
+* [Curso Gratis Android](http://www.hermosaprogramacion.com/android/)
 
 
 ### C
@@ -203,6 +204,7 @@
 * [Introducción a AJAX](http://librosweb.es/libro/ajax/)
 * [Introducción a JavaScript](http://librosweb.es/libro/javascript/)
 * [Jardín de JavaScript](http://bonsaiden.github.io/JavaScript-Garden/es)
+* [JavaScript Para Gatos](https://jsparagatos.com)
 
 
 #### AngularJS
@@ -287,11 +289,6 @@
 * [Python para ciencia e ingeniería](https://github.com/mgaitan/curso-python-cientifico)
 * [Python para principiantes](https://web.archive.org/web/20150421012120/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-python.pdf) (PDF) [(HTML)](http://librosweb.es/libro/python/)
 * [Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf) (PDF)
-
-
-#### Django
-
-* [El libro de Django 1.0](http://django-book.mkaufmann.com.ar)
 
 
 #### Web2py
